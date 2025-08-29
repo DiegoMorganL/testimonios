@@ -1,0 +1,26 @@
+.contenedor-testimonio {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+    min-height: 400px;
+    margin-top: 70px;
+    background-color: white;
+    box-shadow: 0 0 7px 1px #1f1f1f13;
+}
+
+.imagen-testimonio {
+    height: 100%;
+}
+
+.contenedor-texto {
+    margin: 50px;
+    text-align: center;
+}
+
+.texto-nombre, .texto-trabajo {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+

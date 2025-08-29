@@ -1,6 +1,6 @@
 .contenedor-logo {
     width: 100%;
-    height: 150px;
+    height: 115px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,6 +8,6 @@
 }
 
 .logo-mr-robot{
-    width: 500px;
+    width: 400px;
     height: auto;
 }
