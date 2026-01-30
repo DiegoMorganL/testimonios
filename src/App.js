@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Logo />
       <div className='contenedor-principal'>
-        <h1>Esto es lo que dicen los miembros de fsociety:</h1>
+        <h1>Esto es lo que dicen los miembros de fsociety: Eliot</h1>
         <div className='contenedor-testimonios'>
           <Testimonio 
             nombre='Elliot Anderson'
